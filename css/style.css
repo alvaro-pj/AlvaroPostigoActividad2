@@ -38,7 +38,7 @@ body{
 #poster{
     width: 700px;
     height: 300px;
-    border: 10px, brown outset;
+    border: 10px, brown, outset;
     border-radius: 22px;
     margin: auto;
     display: block;
